@@ -31,7 +31,7 @@
         "vue-simple-spinner": "^1.2.10",
         "vue-sweetalert2": "^3.0.1",
         "vuetable-2": "^1.7.5",
-        "vuetify": "^2.2.6",
+        "vuetify": "^2.6.10",
         "webpack": "^4.41.5"
     }
 }
